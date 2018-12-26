@@ -1,1 +1,2 @@
-TO DO list:
+TO DO lista:
+1. nauciti sta je staging area
